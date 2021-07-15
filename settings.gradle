@@ -1,0 +1,4 @@
+include ':ucrop'
+include ':imagepicker'
+include ':app'
+rootProject.name = "Patient Attention Monitor"
